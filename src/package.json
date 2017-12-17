@@ -1,0 +1,31 @@
+{
+  "name": "@qiqo/entity-address",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdrrichards/entity-address"
+  },
+  "author": {
+    "name": "R Richards",
+    "email": "rdrrichards@hotmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdrrichards/entity-address/issues"
+  },
+  "main": "entity-address.umd.js",
+  "module": "entity-address.js",
+  "jsnext:main": "entity-address.js",
+  "typings": "entity-address.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^5.0.0",
+    "@angular/forms": "^5.0.0",
+    "font-awesome": "^4.7.0",
+    "primeng": "^5.0.2",
+    "rxjs": "^5.5.5",
+    "zone.js": "^0.8.4"
+  }
+}
