@@ -1,6 +1,6 @@
 # @rdrrichards/entity-address
 
-Not on NPM at this time, maybe later.
+Address components library for usage in the Angular client applications I am building.
 
 ## Installation
 
