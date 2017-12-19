@@ -22,7 +22,7 @@
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
     "flatModuleOutFile": "entity-address.js",
-    "flatModuleId": "@qiqo/entity-address"
+    "flatModuleId": "@rdrrichards/entity-address"
   },
   "files": [
     "./index.ts"

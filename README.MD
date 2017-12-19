@@ -1,4 +1,4 @@
-# @qiqo/entity-address
+# @rdrrichards/entity-address
 
 Not on NPM at this time, maybe later.
 
@@ -7,13 +7,13 @@ Not on NPM at this time, maybe later.
 To install this library, run:
 
 ```bash
-$ npm install @qiqo/entity-address --save
+$ npm install @rdrrichards/entity-address --save
 ```
 
 ## Consuming your library
 
 ```bash
-$ npm install @qiqo/entity-address
+$ npm install @rdrrichards/entity-address
 ```
 
 and then from the Angular `AppModule`:
@@ -25,7 +25,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import the library
-import { AddressModule } from '@qiqo/entity-address';
+import { AddressModule } from '@rdrrichards/entity-address';
 
 @NgModule({
   declarations: [
@@ -56,4 +56,4 @@ Once the library is imported, you can use its components, directives and pipes i
 ```
 ## License
 
-MIT © [R Richards](mailto:rdrrichards@hotmail.com)
+MIT © [R Richards](mailto:rdrrichardsiii@gmail.com)
