@@ -1,6 +1,6 @@
 {
   "name": "@rdrrichards/entity-address",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/rdrrichards/entity-address"
@@ -21,11 +21,11 @@
   "jsnext:main": "entity-address.js",
   "typings": "entity-address.d.ts",
   "peerDependencies": {
-    "@angular/core": "^5.0.0",
-    "@angular/forms": "^5.0.0",
+    "@angular/core": "^6.0.0",
+    "@angular/forms": "^6.0.0",
     "font-awesome": "^4.7.0",
     "primeng": "^5.0.2",
-    "rxjs": "^5.5.5",
-    "zone.js": "^0.8.4"
+    "rxjs": "^6.1.0",
+    "zone.js": "^0.8.20"
   }
 }
