@@ -61,7 +61,7 @@
     "karma-jasmine-html-reporter": "^1.4.2",
     "karma-typescript": "^4.1.0",
     "karma-typescript-angular2-transform": "^4.1.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "node-sass-tilde-importer": "^1.0.2",
     "node-watch": "^0.6.2",
     "primeng": "^7.1.3",
