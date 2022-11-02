@@ -48,7 +48,7 @@
     "core-js": "^2.6.9",
     "del": "^3.0.0",
     "font-awesome": "^4.7.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-rename": "^1.4.0",
     "gulp-rollup": "^2.16.2",
     "jasmine-core": "~3.3.0",
