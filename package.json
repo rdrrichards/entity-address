@@ -39,7 +39,7 @@
     "@angular/platform-browser": "^22.0.2",
     "@angular/platform-browser-dynamic": "^22.0.2",
     "@angular/router": "22.0.2",
-    "@compodoc/compodoc": "^1.1.19",
+    "@compodoc/compodoc": "^2.0.0",
     "@types/jasmine": "3.3.8",
     "@types/node": "^10.12.30",
     "angular-in-memory-web-api": "^0.22.0",
